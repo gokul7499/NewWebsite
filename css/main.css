@@ -1667,7 +1667,9 @@ body.menu-is-open {
   padding: 0;
   outline: 0;
   border: none;
+  font-weight: bold;
   color: white;
+  font-size: 30px;
 }
 
 .header-logo img {
@@ -3009,7 +3011,7 @@ html.no-csstransitions .home-content__main {
   height: 100%;
   opacity: .3;
   background-color: rgba(0, 0, 0, 0.9);
-  background-image: url(../images/pattern.jpg);
+  background-image: url(../image/pattern.jpg);
   background-size: 760px 380px;
 }
 
@@ -3417,7 +3419,7 @@ html.no-csstransitions .home-content__main {
   height: 4.5rem;
   width: 4.5rem;
   background-color: transparent;
-  background-image: url(../images/icons/icon-quote.svg);
+  background-image: ('../images/icons/icon-quote.svg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
