@@ -1667,6 +1667,7 @@ body.menu-is-open {
   padding: 0;
   outline: 0;
   border: none;
+  color: white;
 }
 
 .header-logo img {
